@@ -1,0 +1,29 @@
+{
+  "name": "uselocalstate",
+  "version": "1.0.0",
+  "description": " A Hook that allows you to save changes in state to local storage. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adustin21/useLocalState.git"
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "state",
+    "typescript",
+    "javascript"
+  ],
+  "author": "adustin21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adustin21/useLocalState/issues"
+  },
+  "homepage": "https://github.com/adustin21/useLocalState#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
